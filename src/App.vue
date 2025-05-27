@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import axios from 'axios'
+import axios from 'axios';
 import { ref, onMounted } from 'vue'
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL
 
